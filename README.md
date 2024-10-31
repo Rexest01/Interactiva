@@ -46,11 +46,11 @@ En este proyecto, mi objetivo es buscar soluciones que beneficien al grupo, ya q
 
 Segmentos objetivo:
 
->Personas con ansiedad social
->Personas con TEA
->Personas con discapacidades físicas
->Personas con trastornos de desarrollo
->Estudiantes universitarios
+Personas con ansiedad social,
+personas con TEA,
+personas con discapacidades físicas,
+personas con trastornos de desarrollo y
+estudiantes universitarios
 
 
 Principales características ofrecidas:
